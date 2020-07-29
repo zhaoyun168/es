@@ -1,0 +1,7 @@
+{
+    "name":"test",
+    "require": {
+	"elasticsearch/elasticsearch": "~7.0",
+        "monolog/monolog": "^1.22"
+    }
+}
